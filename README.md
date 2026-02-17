@@ -1,7 +1,7 @@
 <h1 align="center">Tejashri Bambal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Intelligent+Systems;Data+Driven+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Intelligent+Systems;Data+Driven+Engineering" />
 </p>
 
 <p align="center">
