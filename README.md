@@ -1,21 +1,21 @@
 <h1 align="center">Tejashri Bambal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Intelligent+Systems;Data+Driven+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Intelligent+Systems;Data+Driven+Engineering" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-6B7280?style=for-the-badge"/>
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -54,38 +54,38 @@ Designed a fraud detection system using anomaly detection and classification alg
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-2563EB?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### AI & Data
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-2563EB?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ### Tools & OS
 <p>
-  <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-2563EB?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
@@ -93,10 +93,10 @@ Designed a fraud detection system using anomaly detection and classification alg
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejashribambal19&theme=blue_green" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejashribambal19&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejashribambal19&theme=blue_green" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejashribambal19&theme=blue_green" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejashribambal19&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejashribambal19&theme=default" />
 </p>
