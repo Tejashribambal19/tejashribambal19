@@ -21,14 +21,14 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a student of **Artificial Intelligence and Data Science** with strong expertise in Full Stack Development and intelligent systems.  
 I focus on building scalable web applications, developing AI-powered solutions, and working with data-driven architectures to solve real-world problems.
 
 ---
 
-## 🏆 The Track Record
+## The Track Record
 
 - **Full Stack Developer** — Designed and implemented scalable web applications using modern frontend and backend technologies.
 - **AI & Data Enthusiast** — Built machine learning models and data-driven systems for predictive analysis and optimization.
@@ -37,7 +37,7 @@ I focus on building scalable web applications, developing AI-powered solutions, 
 
 ---
 
-## 🚀 Key Projects
+##  Key Projects
 
 ### Eco Optimizer
 Developed a sustainability-focused web application that analyzes environmental impact metrics and provides data-driven optimization recommendations.
@@ -90,7 +90,7 @@ Designed a fraud detection system using anomaly detection and classification alg
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejashribambal19&theme=default" />
